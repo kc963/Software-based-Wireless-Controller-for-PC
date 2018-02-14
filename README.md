@@ -1,16 +1,16 @@
 # Software-based-Wireless-Controller-for-PC
 
-# Runnable Applications
+## Runnable Applications
 	- RPC Android-Module.apk
 	- RPC PC-Module
 
-# Android Studio Project
+## Android Studio Project
 	- RPC
 	
-# Eclipse Project (Java)
+## Eclipse Project (Java)
 	- RPC_Project
 	
-# Running
+## Running
 	- Install the android application in android phone.
 	- Put .jar file in PC.
 	- Connect both the devices to the same Wi-Fi (hotspot can also be used).
